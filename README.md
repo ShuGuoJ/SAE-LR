@@ -46,7 +46,7 @@ This is a reproduction of *Deep Learning-Based Classification of Hyperspectral D
 
 <table>
 <tr align="center">
-<td colspan="6">PaviaU</td>
+<td colspan="6">Salinas</td>
 </tr>
 <tr align="center">
 <td colspan="2">10</td>
@@ -74,7 +74,7 @@ This is a reproduction of *Deep Learning-Based Classification of Hyperspectral D
 在KSC数据集上的准确率（%）如下表所示：
 <table>
 <tr align="center">
-<td colspan="6">PaviaU</td>
+<td colspan="6">KSC</td>
 </tr>
 <tr align="center">
 <td colspan="2">10</td>
